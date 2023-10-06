@@ -1,0 +1,18 @@
+.blog {
+  background-color: #82e59b;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin: 20px;
+}
+
+.blog h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.blog p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.5;
+}
